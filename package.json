@@ -1,7 +1,7 @@
 {
-  "name": "medplay-enem-frontend-main",
+  "name": "medplay-enem-frontend-v2",
   "version": "1.0.0",
-  "description": "Frontend da plataforma gamificada MedPlay ENEM.",
+  "description": "Frontend da plataforma gamificada MedPlay ENEM - versão corrigida para Node.js 22.x.",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -13,20 +13,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/betoborelli9/medplay-enem-frontend.git"
+    "url": "git+https://github.com/betoborelli9/medplay-enem-frontend-v2.git"
   },
   "keywords": [
     "react",
     "vite",
     "enem",
-    "gamificacao"
+    "gamificacao",
+    "frontend"
   ],
-  "author": "",
+  "author": "Beto Borelli",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/betoborelli9/medplay-enem-frontend/issues"
+    "url": "https://github.com/betoborelli9/medplay-enem-frontend-v2/issues"
   },
-  "homepage": "https://github.com/betoborelli9/medplay-enem-frontend#readme",
+  "homepage": "https://github.com/betoborelli9/medplay-enem-frontend-v2#readme",
   "dependencies": {
     "axios": "^1.6.8",
     "lucide-react": "^0.395.0",
